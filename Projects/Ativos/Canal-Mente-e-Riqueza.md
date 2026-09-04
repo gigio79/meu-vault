@@ -6,13 +6,16 @@ metadata:
 status: ativo
 ---
 
-# 🎬 Canal — Mente & Riqueza (Projeto)
+# 🎬 Canal — O Código Oculto (Projeto)
 
 > Projeto do canal anônimo de desenvolvimento pessoal, finanças e mistério.
+> **Nome do canal:** O Código Oculto
 > **Modelo:** YouTube (cortes/vídeos) → Spotify (áudio completo) — funil "isca → profundo".
 
 ## 🧭 IDENTIDADE DO CANAL
 
+- **Nome:** O Código Oculto (@ocodigooculto)
+- **Tagline:** "A verdade que muda a mente"
 - **Formato:** Anônimo — **sem rosto, sem nome pessoal**. Voz + edição/IA.
 - **Estilo:** Provocar a pensar, com profundidade (não clickbait vazio).
 - **Ângulo único (diferencial):** *"Ideias que mudam a mente — e por que quase ninguém te conta."* Une **mente + finanças + mistério**.
