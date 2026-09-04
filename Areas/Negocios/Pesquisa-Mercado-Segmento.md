@@ -116,6 +116,32 @@ O nicho ESTÁ SATURADO no topo, mas o formato "resumo de livros + desenvolviment
 
 ---
 
+## 🌍 BILIBILI vs YOUTUBE — Veredicto Final (pesquisado)
+
+**Decisão:** FOCAR no YouTube. Bilibili é aposta paralela futura, não principal.
+
+### Por quê (dados reais):
+- **YouTube finance (Brasil)** paga **$3,67–$7,09/1000 views** (2026, nicho finanças).
+- **Bilibili** paga ~**$0,70/1000 views** (taxa REPORTADA, não oficial / não garantida).
+- O YouTube paga **5–10x MAIS** no nosso nicho (finanças = maior valor).
+- Para render no Bilibili com público chinês, seria preciso conteúdo em **mandarim** + ressoar com cultura chinesa → barreira grande.
+
+### Comparação direta:
+| | YouTube (nicho finance, BR) | Bilibili |
+|---|---|---|
+| Renda/1000 views | **$3,67–7,09** | ~$0,70 (não oficial) |
+| Monetizar | 1k inscritos + 4k horas | 100 subs + 2k views (mais fácil) |
+| Público pro nosso nicho | Ideal (tu entende a cultura) | Chinês (barreira) |
+| Teto incentivo básico | Sem teto (ads ilimitadas) | ~$280/mês |
+| Maturidade ads | Alta | Em crescimento |
+
+### Estratégia final:
+1. **YouTube = base onde está $** do nosso nicho.
+2. **Bilibili = aposta paralela** (mercado novo, crescente) — avaliar DEPOIS, como 2ª fonte.
+3. Não abandonar YouTube por hype do Bilibili — números não sustentam no nosso caso.
+
+---
+
 ## 📌 PRÓXIMOS PASSOS RECOMENDADOS
 - [ ] Definir identidade/nome do canal
 - [ ] Montar biblioteca de 10-20 títulos/ideias iniciais
