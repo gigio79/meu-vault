@@ -1,0 +1,7 @@
+file 'C:/Users/familia gidelu/Documents/Obsidian Vault/Projects/Ativos/Canal-Producao/video02\intro.mp4'
+file 'C:/Users/familia gidelu/Documents/Obsidian Vault/Projects/Ativos/Canal-Producao/video02\c01.mp4'
+file 'C:/Users/familia gidelu/Documents/Obsidian Vault/Projects/Ativos/Canal-Producao/video02\c02.mp4'
+file 'C:/Users/familia gidelu/Documents/Obsidian Vault/Projects/Ativos/Canal-Producao/video02\c03.mp4'
+file 'C:/Users/familia gidelu/Documents/Obsidian Vault/Projects/Ativos/Canal-Producao/video02\c04.mp4'
+file 'C:/Users/familia gidelu/Documents/Obsidian Vault/Projects/Ativos/Canal-Producao/video02\c05.mp4'
+file 'C:/Users/familia gidelu/Documents/Obsidian Vault/Projects/Ativos/Canal-Producao/video02\c06.mp4'

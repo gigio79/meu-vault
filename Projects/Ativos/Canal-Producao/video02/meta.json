@@ -1,0 +1,56 @@
+[
+  {
+    "id": "c01",
+    "audio": "c01.mp3",
+    "slide": "c01.png",
+    "duration": 20.472,
+    "title": "Trabalhar duro ≠ riqueza",
+    "sub": "A fórmula que te ensinaram está incompleta",
+    "style": "constellation"
+  },
+  {
+    "id": "c02",
+    "audio": "c02.mp3",
+    "slide": "c02.png",
+    "duration": 25.032,
+    "title": "A corrida dos ratos",
+    "sub": "Ganha mais, gasta mais, roda mais rápido",
+    "style": "cycle"
+  },
+  {
+    "id": "c03",
+    "audio": "c03.mp3",
+    "slide": "c03.png",
+    "duration": 30.408,
+    "title": "Ativo vs passivo",
+    "sub": "Ativo coloca dinheiro no bolso. Passivo tira.",
+    "style": "eye"
+  },
+  {
+    "id": "c04",
+    "audio": "c04.mp3",
+    "slide": "c04.png",
+    "duration": 22.224,
+    "title": "Dinheiro trabalhando por você",
+    "sub": "Seu tempo é limitado. Seus ativos não.",
+    "style": "rise"
+  },
+  {
+    "id": "c05",
+    "audio": "c05.mp3",
+    "slide": "c05.png",
+    "duration": 24.312,
+    "title": "O que substitui o esforço?",
+    "sub": "Alavancagem: sistemas que funcionam sem você",
+    "style": "particles"
+  },
+  {
+    "id": "c06",
+    "audio": "c06.mp3",
+    "slide": "c06.png",
+    "duration": 36.312,
+    "title": "Comece pequeno",
+    "sub": "Invista. Construa. A riqueza vem do que você constrói.",
+    "style": "horizon"
+  }
+]
